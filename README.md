@@ -8,7 +8,7 @@ a simple opengl demo base on glsl glfw
 ## start run   
 clone   
 cd Source   
-open .sln  
+open .sln   project
 
 ## link 
 https://learnopengl.com/    
