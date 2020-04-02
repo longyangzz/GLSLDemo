@@ -1,6 +1,10 @@
 # GLSLDemo
 a simple opengl demo base on glsl glfw
 
+
+
+![img](./screenshot/main.png)
+
 ## start run   
 clone   
 cd Source   
