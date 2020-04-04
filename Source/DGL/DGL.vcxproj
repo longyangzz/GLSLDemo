@@ -23,6 +23,7 @@
     <ProjectGuid>{C47CBE77-DDBC-44C4-9ADD-D1E87B8ED508}</ProjectGuid>
     <RootNamespace>DGL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>GLSLDemo</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
